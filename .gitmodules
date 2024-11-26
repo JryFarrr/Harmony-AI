@@ -1,0 +1,6 @@
+[submodule "Sources/App/chatbot-frontend"]
+	path = Sources/App/chatbot-frontend
+	url = https://github.com/pramudyanuar/chatbot.git
+[submodule "Sources/App/chatbot-backend"]
+	path = Sources/App/chatbot-backend
+	url = https://github.com/eldntr/chatbot-backend.git
